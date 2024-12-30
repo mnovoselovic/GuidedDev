@@ -1,0 +1,9 @@
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMicoRealty\Files\Bin\UsrMicoRealty.dll
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMicoRealty\Files\Bin\UsrMicoRealty.pdb
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMicoRealty\Files\obj\Release\UsrMicoRealty.csproj.AssemblyReference.cache
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMicoRealty\Files\obj\Release\UsrMicoRealty.GeneratedMSBuildEditorConfig.editorconfig
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMicoRealty\Files\obj\Release\UsrMicoRealty.AssemblyInfoInputs.cache
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMicoRealty\Files\obj\Release\UsrMicoRealty.AssemblyInfo.cs
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMicoRealty\Files\obj\Release\UsrMicoRealty.csproj.CoreCompileInputs.cache
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMicoRealty\Files\obj\Release\UsrMicoRealty.dll
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMicoRealty\Files\obj\Release\UsrMicoRealty.pdb

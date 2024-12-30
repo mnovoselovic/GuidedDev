@@ -1,0 +1,9 @@
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrOceanRealty\Files\Bin\UsrOceanRealty.dll
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrOceanRealty\Files\Bin\UsrOceanRealty.pdb
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrOceanRealty\Files\obj\Release\UsrOceanRealty.csproj.AssemblyReference.cache
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrOceanRealty\Files\obj\Release\UsrOceanRealty.GeneratedMSBuildEditorConfig.editorconfig
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrOceanRealty\Files\obj\Release\UsrOceanRealty.AssemblyInfoInputs.cache
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrOceanRealty\Files\obj\Release\UsrOceanRealty.AssemblyInfo.cs
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrOceanRealty\Files\obj\Release\UsrOceanRealty.csproj.CoreCompileInputs.cache
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrOceanRealty\Files\obj\Release\UsrOceanRealty.dll
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrOceanRealty\Files\obj\Release\UsrOceanRealty.pdb

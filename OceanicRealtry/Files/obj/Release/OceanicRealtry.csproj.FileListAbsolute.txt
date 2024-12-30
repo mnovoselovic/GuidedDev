@@ -1,0 +1,9 @@
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OceanicRealtry\Files\Bin\OceanicRealtry.dll
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OceanicRealtry\Files\Bin\OceanicRealtry.pdb
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OceanicRealtry\Files\obj\Release\OceanicRealtry.csproj.AssemblyReference.cache
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OceanicRealtry\Files\obj\Release\OceanicRealtry.GeneratedMSBuildEditorConfig.editorconfig
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OceanicRealtry\Files\obj\Release\OceanicRealtry.AssemblyInfoInputs.cache
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OceanicRealtry\Files\obj\Release\OceanicRealtry.AssemblyInfo.cs
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OceanicRealtry\Files\obj\Release\OceanicRealtry.csproj.CoreCompileInputs.cache
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OceanicRealtry\Files\obj\Release\OceanicRealtry.dll
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OceanicRealtry\Files\obj\Release\OceanicRealtry.pdb

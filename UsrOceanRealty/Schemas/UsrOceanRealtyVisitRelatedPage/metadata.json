@@ -1,0 +1,35 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "d03e3b53-ed88-4a96-8946-9a02b3598cdf",
+      "A2": "UsrOceanRealtyVisitRelatedPage",
+      "A5": "31e7c105-cf22-4e81-abc2-536e1be6f4cb",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "14072dd0-1441-4652-9081-edb641afd947",
+      "B8": "8.1.1.3635",
+      "AD1": "ad24e1de-4580-442c-ad8b-40483bd77b8d",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "Pages": [
+    {
+      "UId": "5ee4d712-6dd3-b902-74c5-be7f5541d291",
+      "PageSchemaUId": "842acf95-bae2-460c-9a5e-ddb1adf10231",
+      "IsDefault": true,
+      "IsSspDefault": false,
+      "Actions": {
+        "Add": false
+      },
+      "Role": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+      "TypeColumnValue": null
+    }
+  ],
+  "TypeColumnUId": null
+}
+    }
+  }
+}

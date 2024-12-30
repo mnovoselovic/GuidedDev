@@ -1,0 +1,8 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/UsrOceanRealty/Schemas/UsrRealtyOfferType/UsrRealtyOfferType.cs" Condition="Exists('$(PkgPath)/UsrOceanRealty/Schemas/UsrRealtyOfferType/UsrRealtyOfferType.cs')" />
+		<Compile Include="$(PkgPath)/UsrOceanRealty/Schemas/UsrOceanRealty/UsrOceanRealty.cs" Condition="Exists('$(PkgPath)/UsrOceanRealty/Schemas/UsrOceanRealty/UsrOceanRealty.cs')" />
+		<Compile Include="$(PkgPath)/UsrOceanRealty/Schemas/UsrRealtyType/UsrRealtyType.cs" Condition="Exists('$(PkgPath)/UsrOceanRealty/Schemas/UsrRealtyType/UsrRealtyType.cs')" />
+		<Compile Include="$(PkgPath)/UsrOceanRealty/Schemas/UsrEntity_2852e6c/UsrEntity_2852e6c.cs" Condition="Exists('$(PkgPath)/UsrOceanRealty/Schemas/UsrEntity_2852e6c/UsrEntity_2852e6c.cs')" />
+	</ItemGroup>
+</Project>

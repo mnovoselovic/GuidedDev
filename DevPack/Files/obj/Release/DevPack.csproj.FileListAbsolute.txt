@@ -1,0 +1,9 @@
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevPack\Files\Bin\DevPack.dll
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevPack\Files\Bin\DevPack.pdb
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevPack\Files\obj\Release\DevPack.csproj.AssemblyReference.cache
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevPack\Files\obj\Release\DevPack.GeneratedMSBuildEditorConfig.editorconfig
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevPack\Files\obj\Release\DevPack.AssemblyInfoInputs.cache
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevPack\Files\obj\Release\DevPack.AssemblyInfo.cs
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevPack\Files\obj\Release\DevPack.csproj.CoreCompileInputs.cache
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevPack\Files\obj\Release\DevPack.dll
+C:\8.1.1.3635_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevPack\Files\obj\Release\DevPack.pdb

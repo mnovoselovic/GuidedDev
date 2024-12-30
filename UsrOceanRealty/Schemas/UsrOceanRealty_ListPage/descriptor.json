@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ffcbc93a-d2ad-4e4f-bcf8-7727be42a95b",
+    "Name": "UsrOceanRealty_ListPage",
+    "ModifiedOnUtc": "\/Date(1709806062000)\/",
+    "Parent": {
+      "UId": "3f1f3f38-a0a4-4549-b895-249fb08f554a",
+      "Name": "ListFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "OceanRealty list page",
+    "DependsOn": []
+  }
+}

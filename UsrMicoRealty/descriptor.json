@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "8fa42a9c-708f-4610-9fc1-3e4b0bcb0501",
+    "Name": "UsrMicoRealty",
+    "Type": 1,
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrMicoRealty.csproj",
+    "DependsOn": []
+  }
+}

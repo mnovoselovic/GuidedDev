@@ -1,0 +1,12 @@
+﻿{
+  "Descriptor": {
+    "UId": "7aed22f0-6ab3-b6fc-5d1d-229d17cb5b33",
+    "Name": "OceanicRealtry",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1712739619000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/OceanicRealtry.csproj",
+    "Description": "my project",
+    "DependsOn": []
+  }
+}

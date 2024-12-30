@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "7ea09c3d-e44a-4ccf-8fa2-71096bdf5635",
+    "Name": "UsrOceanRealtyRelatedPage",
+    "ModifiedOnUtc": "\/Date(1709806062000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "OceanRealty (Page settings)",
+    "DependsOn": []
+  }
+}

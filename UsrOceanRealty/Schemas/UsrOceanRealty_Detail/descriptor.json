@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "49295255-9901-401c-bf50-1e4bf78deac6",
+    "Name": "UsrOceanRealty_Detail",
+    "ModifiedOnUtc": "\/Date(1709806062000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "OceanRealty detail",
+    "DependsOn": []
+  }
+}

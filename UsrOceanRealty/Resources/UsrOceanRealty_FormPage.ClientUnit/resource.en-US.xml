@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="OceanRealty form page" />
+			<Item Name="LocalizableStrings.addRecord_11zjavy_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_obaesy4_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.AreaCannotBeLess.Value" Value="Area cannot be less than 100 sq ft" />
+			<Item Name="LocalizableStrings.ExpansionPanel_ihkx2nz_title.Value" Value="Realty Visits" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_pg8i9h2_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_dcydpj1_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_r4606z4_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_m4fomdv_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_tzicifi_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_3ia6rn5_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.NumberInput_aby7kja_label.Value" Value="Commission Percentage" />
+			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 50.0" />
+			<Item Name="LocalizableStrings.PriceIsGreaterThanZero.Value" Value="Price Must Be Greater Than Zero" />
+		</Items>
+	</Group>
+</Resources>

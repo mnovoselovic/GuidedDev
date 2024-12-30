@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "75a5ae67-1987-4390-a202-b1d27b540443",
+    "Name": "UsrOceanRealty_FormPageBusinessRule",
+    "ModifiedOnUtc": "\/Date(1709816252000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "OceanRealty form page (Business rules)",
+    "DependsOn": []
+  }
+}

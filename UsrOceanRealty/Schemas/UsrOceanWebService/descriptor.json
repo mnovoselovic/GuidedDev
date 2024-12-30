@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "5822dbe4-030b-4051-99b8-56ee8c16c7a5",
+    "Name": "UsrOceanWebService",
+    "ModifiedOnUtc": "\/Date(1710421572000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Get Minimum Price WS",
+    "DependsOn": []
+  }
+}

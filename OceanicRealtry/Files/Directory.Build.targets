@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/OceanicRealtry/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/OceanicRealtry/Data/**" />
+		<Compile Remove="$(PkgPath)/OceanicRealtry/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/OceanicRealtry/Schemas\**" />
+		<Compile Remove="$(PkgPath)/OceanicRealtry/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/OceanicRealtry/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/OceanicRealtry/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/OceanicRealtry/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/OceanicRealtry/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/OceanicRealtry/Resources/**" />
+		<None Remove="$(PkgPath)/OceanicRealtry/Assemblies/**" />
+		<None Remove="$(PkgPath)/OceanicRealtry/Data/**" />
+		<None Remove="$(PkgPath)/OceanicRealtry/SqlScripts/**" />
+		<None Remove="$(PkgPath)/OceanicRealtry/Schemas/**" />
+		<None Remove="$(PkgPath)/OceanicRealtry/Resources/**" />
+  </ItemGroup>
+</Project>

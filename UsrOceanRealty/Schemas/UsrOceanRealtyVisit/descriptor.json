@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "ad24e1de-4580-442c-ad8b-40483bd77b8d",
+    "Name": "UsrOceanRealtyVisit",
+    "ModifiedOnUtc": "\/Date(1734347679000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "RealtyVisit"
+  }
+}

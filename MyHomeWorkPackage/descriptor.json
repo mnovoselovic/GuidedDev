@@ -1,0 +1,18 @@
+﻿{
+  "Descriptor": {
+    "UId": "70902088-0f2a-ad3a-4e7a-226e85164351",
+    "Name": "MyHomeWorkPackage",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1709803414000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/MyHomeWorkPackage.csproj",
+    "Description": "This is a package made for the Homework assignment",
+    "DependsOn": [
+      {
+        "UId": "fe1effeb-74f2-42c5-b5e1-dfe0313b86bf",
+        "PackageVersion": "7.8.0",
+        "Name": "Studio"
+      }
+    ]
+  }
+}
